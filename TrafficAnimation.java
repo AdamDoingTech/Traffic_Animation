@@ -152,7 +152,7 @@ public class TrafficAnimation extends JPanel
 		BufferedImage grassTexture = null;
 		
 		try {
-			grassTexture = ImageIO.read(new File("grass_texture.jpg"));
+			grassTexture = ImageIO.read(new File("Images/grass_texture.jpg"));
 		} 
 
 		catch (IOException e) {
@@ -282,7 +282,7 @@ public class TrafficAnimation extends JPanel
 		BufferedImage Female_Character = null;
 
 		try {
-			Female_Character = ImageIO.read(new File("Female_Character.png"));
+			Female_Character = ImageIO.read(new File("Images/Female_Character.png"));
 		}
 
 		catch (IOException e) {
