@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AdamDoingTech/Traffic_Animation/blob/main/Demo_Image.png">
-    <img src="Demo/AniWall_Gif.gif" alt="Anime Wallpapre Demo">
+  <a href="https://github.com/AdamDoingTech/Traffic_Animation/blob/main/Images/Demo_Image.png?raw=true">
+    <img src="https://github.com/AdamDoingTech/Traffic_Animation/blob/main/Images/Demo_Image.png?raw=true" alt="Anime Wallpapre Demo">
   </a>
 
   <h3 align="center">!! Traffic Animation !!</h3>
