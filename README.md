@@ -7,7 +7,7 @@
   </a>
   
   <h3 align="center">
-  !! Traffic Animation !!
+  !! Traffic Animation Project 0 !!
   </h3>
   
   <p align="center">
@@ -15,13 +15,13 @@
     <br/>
 
 ## REASONS BEHIND THE APP:
-A fun project, to practice making animations using Java.
+A fun project, to practice making animations using JAVA.
 
 <!-- BUILT USING -->
-## BUILT WITH
+## BUILT USING:
 * JAVA.
  
 <!-- CONTRIBUTING GUIDELINES -->
 <!-- LICENSE -->
-## Copyright
-Copyright © 2024 [Adam - Adam Doin Tech](https://AdamDoing.Tech)
+## Copyrights:
+Copyright © 2024 Adam @[AdamDoinTech](https://AdamDoing.Tech).
