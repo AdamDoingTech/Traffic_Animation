@@ -1,4 +1,4 @@
-# Traffic_Animation
+# TRAFFIC ANIMATION
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
