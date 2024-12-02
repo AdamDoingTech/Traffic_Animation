@@ -12,11 +12,6 @@
   <p align="center">
     <samp>✨ A Personal Project for CS 121 ✨</samp><br/>
     <br/>
-  <img alt="App size" src="https://img.shields.io/github/repo-size/atomlabx/AniWall_Ver3?color=blue&label=app%20size&style=for-the-badge">
-  <img alt="Repo top language" src="https://img.shields.io/github/languages/top/atomlabx/AniWall_Ver3?color=important&style=for-the-badge">
-  <img alt="App issues" src="https://img.shields.io/bitbucket/issues-raw/atomlabx/AniWall_Ver3?color=important&style=for-the-badge">
-    </p>
-    
 
 ## REASONS BEHIND THE APP:
 A fun project, to practice making animations using Java.
@@ -28,3 +23,4 @@ A fun project, to practice making animations using Java.
 <!-- CONTRIBUTING GUIDELINES -->
 <!-- LICENSE -->
 ## Copyright
+Copyright © 2024 [Adam - Adam Doin Tech](https://AdamDoing.Tech)

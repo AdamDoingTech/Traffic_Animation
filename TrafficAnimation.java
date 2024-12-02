@@ -29,7 +29,7 @@ import javax.swing.Timer;
 /**
  * TrafficAnimation is a program that showcases a female character prevnting the viewer from going into the road, while there are a couple of animations running in the background, such as a car and a floating sun.
  * 
- * @author Adam Jalyo
+ * @author Adam
  * @version 3.0 FALL_24, Last modified Dec_1_2024
  * 
  */
