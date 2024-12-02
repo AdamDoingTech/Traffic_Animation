@@ -24,4 +24,4 @@ A fun project, to practice making animations using JAVA.
 <!-- CONTRIBUTING GUIDELINES -->
 <!-- LICENSE -->
 ## Copyrights:
-Copyright © 2024 Adam @[AdamDoinTech](https://AdamDoing.Tech).
+Copyright © 2024 By [@Adam Doing Tech](https://AdamDoing.Tech).
