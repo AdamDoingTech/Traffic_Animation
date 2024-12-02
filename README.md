@@ -14,6 +14,20 @@
     <samp>✨ A Personal Project for CS 121 ✨</samp><br/>
     <br/>
 
+## HOW TO RUN AND COMPILE:
+
+A) Run the following command in the terminal to compile the code and get (fileName.class):
+```
+$ javac TrafficAnimation.java
+```
+
+B) Run the generated (fileName.class) using the following command:
+```
+$ java TrafficAnimation
+```
+
+C) You will see the animation in a new Java popup, enjoy. 
+
 ## REASONS BEHIND THE APP:
 A fun project, to practice making animations using JAVA.
 
